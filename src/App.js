@@ -120,6 +120,7 @@ function App() {
            </center>
 
              <Input 
+              className="app__sigin"
               placeholder="username"
               type="text"
               value={username}
@@ -127,6 +128,7 @@ function App() {
 
             />
             <Input 
+              className="app__sigin"
               placeholder="email"
               type="text"
               value={email}
@@ -134,6 +136,7 @@ function App() {
 
             />
              <Input 
+             className="app__sigin"
               placeholder="password"
               type="password"
               value={password}
@@ -160,6 +163,7 @@ function App() {
            </center>
 
             <Input 
+             className="app__sigin"
               placeholder="email"
               type="text"
               value={email}
@@ -167,6 +171,7 @@ function App() {
 
             />
              <Input 
+             className="app__sigin"
               placeholder="password"
               type="password"
               value={password}
